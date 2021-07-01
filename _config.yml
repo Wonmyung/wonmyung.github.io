@@ -1,13 +1,13 @@
 # Site setings
-name: 'Connor Luckett'
-description: 'cobelu'
-meta_description: 'co.be.lu'
+name: '파도처럼 돈이 들어왔으면'
+description: 'C/C++, SLAM, Computer vision'
+meta_description: 'bada'
 logo:
 # Author image is used in site sidebar and greetings in the home page hero text
 author:
   image: 'authorimage.jpg'
-  greetings: "Hello, I'm Connor!"
-favicon: 'assets/images/favicon.ico'
+  greetings: "일상 기록"
+favicon: 'assets/images/logo_wave.ico'
 baseurl: 
 production_url: https://cobelu.com/
 # disqus: 'justgoodthemes'
