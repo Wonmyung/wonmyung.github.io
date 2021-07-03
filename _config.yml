@@ -1,19 +1,12 @@
 # Site setings
-name: '파도처럼 돈이 들어왔으면'
-description: 'C/C++, SLAM, Computer vision'
+name:             'Waves'
+description:      'C/C++, SLAM, Computer vision'
 meta_description: 'bada'
 logo:
-# Author image is used in site sidebar and greetings in the home page hero text
 author:
-  image: 'authorimage.jpg'
-  greetings: "일상 기록"
-favicon: 'assets/images/logo_wave.ico'
-baseurl: 
-production_url: https://cobelu.com/
-# disqus: 'justgoodthemes'
-# mailchimp_url: '//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117'
-# Add your GA Tracking Id
-#ga_analytics:
+  image:          'assets/images/authorimage.jpg'
+  greetings:      "일상 기록"
+favicon:          'assets/images/logo_wave.ico'
 
 # Contact form setings
 #email: \<first-name\>_\<last-name\>@email.com
@@ -21,17 +14,8 @@ production_url: https://cobelu.com/
 #thankyou_page_description: "Your message has been successfully sent. We will contact you very soon!"
 
 # Social links
-# twitter: 'justgoodthemes'
-facebook: 'connor.luckett'
-github: 'cobelu'
-# codepen: 'username'
-# dribbble: 'username'
-# medium: '@username'
-instagram: 'imamac96'
-# pinterest: 'username'
-linkedin: 'cobelu'
-# producthunt: '@username'
-# quora: 'username'
+github:   'Wonmyung'
+linkedin: 'Wonmyung Lee'
 
 # Navigation
 navigation:
@@ -39,12 +23,12 @@ navigation:
     url: /
   - text: About
     url: /about
-  - text: Projects
-    url: /projects
-  - text: Experience
+  - text: Daily record
     url: /experience
-  - text: CX4 Project
-    url: https://connorcx4.wordpress.com/
+  - text: Computer vision
+    url: /projects
+  - text: Software
+    url: /experience
 
 # Required Plugins
 plugins_dir:
